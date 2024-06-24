@@ -1,7 +1,7 @@
 <img align="center" alt="coding" src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif">
 
 <h1 align="center">Hi 👋, I'm Ashish Raj</h1>
-<p align="center">I've been leaning to code from past 2 years. Learning New Technology excites me to Build Products.</p>
+<p align="center">I've been leaning to code from past 2 years. Let's Code Together 😃.</p>
 <img align="right" alt="coding" width="400" src="https://res.cloudinary.com/dogeqhwii/image/upload/v1719179677/giphy_1_kmzdnf.webp">
 
 <p align="left">
