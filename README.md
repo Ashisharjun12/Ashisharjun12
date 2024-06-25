@@ -8,7 +8,7 @@
 <img align="right" alt="coding" width="400" src="https://res.cloudinary.com/dogeqhwii/image/upload/v1719179677/giphy_1_kmzdnf.webp">
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ashisharjun12&label=Profile%20views&color=0e75b6&style=flat" alt="ashisharjun12" />
+  <img src="https://komarev.com/ghpvc/?username=ashisharjun12&label=Profile%20views&color=green&style=flat" alt="ashisharjun12" />
 </p>
 
 
@@ -19,9 +19,11 @@ A passionate Mern And Andriod Developer
 * ✉️  You can contact me at [ashishrahul748@gmail.com](mailto:ashishrahul748@gmail.com)
 * 🚀  I'm currently working on [E-commerce Backend](http://github.com/Ashisharjun12/Ecommerce-Api)
 * 🧠  I'm learning Nodejs Backend and System Design
+  <br/><br/>
 
 
-### Skills
+<h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
 
 <p align="left">
     <a><img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" /></a>
@@ -85,9 +87,15 @@ A passionate Mern And Andriod Developer
     <a href=""> <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" /></a>
 </p>
 
-### Socials
+
+<h2 align="left"> Social Connect </h2>
+<br>
 
 <p align="left"> <a href="https://www.github.com/Ashisharjun12" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/_ashish.raj_10" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/ashish-raj-300943188/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/Ashish37484185" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@ASHU1210_" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a> <a href="https://www.threads.net/@_ashish.raj_10" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /> </picture> </a></p>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashisharjun12&theme=blue_green" alt="Profile Details" style="margin: 10px;" />
@@ -97,7 +105,15 @@ A passionate Mern And Andriod Developer
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ashisharjun12&theme=blue_green&utcOffset=8" alt="Productive Time" style="margin: 10px;" />
 </p>
 
-### contributions
 
-<img src="https://raw.githubusercontent.com/Ashisharjun12/Ashisharjun12/output/snake.svg" alt="Snake animation" />
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+ <img src="https://raw.githubusercontent.com/Ashisharjun12/Ashisharjun12/output/snake.svg" alt="Snake animation" />
+  
+  <br/><br/><br/>
+</div>
+
+
 
