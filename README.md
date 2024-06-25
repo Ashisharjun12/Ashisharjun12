@@ -94,5 +94,7 @@ A passionate Mern And Andriod Developer
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ashisharjun12&theme=blue_green&utcOffset=8" alt="Productive Time" style="margin: 10px;" />
 </p>
 
+### contributions
 
+<img src="https://raw.githubusercontent.com/Ashisharjun12/Ashisharjun12/output/snake.svg" alt="Snake animation" />
 
