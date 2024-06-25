@@ -8,7 +8,7 @@
 <img align="right" alt="coding" width="400" src="https://res.cloudinary.com/dogeqhwii/image/upload/v1719179677/giphy_1_kmzdnf.webp">
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ashisharjun12&label=Profile%20views&color=green&style=flat" alt="ashisharjun12" />
+  <img src="https://komarev.com/ghpvc/?username=ashisharjun12&label=Profile%20views&color=3CDB85&style=flat" alt="ashisharjun12" />
 </p>
 
 
