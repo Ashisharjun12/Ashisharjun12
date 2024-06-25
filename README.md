@@ -1,6 +1,9 @@
 <img align="center" alt="coding" src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif">
 
-<h1 align="center">Hi 👋, I'm Ashish Raj</h1>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=openSans&size=38&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋+I'm+Ashish+Raj+!;" />
+</h1>
 <p align="center">I've been leaning to code from past 2 years. Let's Code Together 😃.</p>
 <img align="right" alt="coding" width="400" src="https://res.cloudinary.com/dogeqhwii/image/upload/v1719179677/giphy_1_kmzdnf.webp">
 
