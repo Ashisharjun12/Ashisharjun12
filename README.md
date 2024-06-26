@@ -12,7 +12,7 @@
 </p>
 
 
-A passionate Mern And Andriod Developer
+A passionate Software Engineer
 ---------------------------------------
 
 * 🌍  I'm based in India
