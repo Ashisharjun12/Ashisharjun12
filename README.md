@@ -17,7 +17,7 @@ A passionate Software Engineer
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [ashishrahul748@gmail.com](mailto:ashishrahul748@gmail.com)
-* 🚀  I'm currently working on [E-commerce Backend](http://github.com/Ashisharjun12/Ecommerce-Api)
+* 🚀  I'm currently working on [TripGo](https://github.com/Ashisharjun12/AI-Travel-Frontend)
 * 🧠  I'm learning Nodejs Backend and System Design
   <br/><br/>
 
