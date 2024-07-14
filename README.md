@@ -30,6 +30,8 @@ A passionate Software Engineer
     <img  />
     <a><img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo" /></a>
     <img  />
+    <a><img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="prisma logo" /></a>
+    <img  />
     <a><img src="https://skillicons.dev/icons?i=atom" height="40" alt="atom logo" /></a>
     <img  />
     <a href=""><img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" /></a>
