@@ -4,7 +4,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=openSans&size=38&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋+I'm+Ashish+Raj+!;" />
 </h1>
-<p align="center">I've been leaning to code from past 2 years. Let's Code Together 😃.</p>
+<p align="center">Let's Code Together 😃.</p>
 <img align="right" alt="coding" width="400" src="https://res.cloudinary.com/dogeqhwii/image/upload/v1719179677/giphy_1_kmzdnf.webp">
 
 <p align="left">
