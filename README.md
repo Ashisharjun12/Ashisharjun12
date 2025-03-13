@@ -28,6 +28,8 @@ A passionate Software Engineer
 <p align="left">
     <a><img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" /></a>
     <img  />
+    <a><img src="https://skillicons.dev/icons?i=go" height="40" alt="golang logo" /></a>
+    <img  />
     <a><img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo" /></a>
     <img  />
     <a><img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="prisma logo" /></a>
