@@ -93,6 +93,7 @@ A passionate Software Engineer
     <a href=""> <img src="https://skillicons.dev/icons?i=grafana" height="40" alt="grafana logo" /></a>
     <a href=""> <img src="https://skillicons.dev/icons?i=prometheus" height="40" alt="promethies logo" /></a>
     <a href=""> <img src="https://skillicons.dev/icons?i=pnpm" height="40" alt="promethies logo" /></a>
+    <a href=""> <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jen\kins logo" /></a>
 </p>
 
 
